@@ -7,6 +7,13 @@ As of 2018-02-12, there were 391176 entries at the COD. It is an example of vast
 
 Huge thanks to Saulius Gražulis, @KaMykolas and ffwd for their help with crystallographic software, Axidraw and sed respectively.
 
+The script is pretty self-explanatory. You will need [Jmol](https://en.wikipedia.org/wiki/Jmol), ImageMagick, [axibot](https://github.com/storborg/axibot) and [potrace](http://potrace.sourceforge.net/) to run it.
+
+
+Created during [Science Hack Day Vilnius 2018](http://vilnius.sciencehackday.org).
+![alt text](https://github.com/Technariumas/CrystalBot/blob/master/plot.jpg)
+
+
 An example of a random structure:
 ![alt text](https://github.com/Technariumas/CrystalBot/blob/master/example.png)
 
@@ -21,5 +28,4 @@ The structure, drawn on paper:
 ![alt text](https://github.com/Technariumas/CrystalBot/blob/master/plot.jpg)
 
 
-The script is pretty self-explanatory. You will need [Jmol](https://en.wikipedia.org/wiki/Jmol), ImageMagick, [axibot](https://github.com/storborg/axibot) and [potrace](http://potrace.sourceforge.net/) to run it.
 
